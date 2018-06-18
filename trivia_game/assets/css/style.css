@@ -7,7 +7,14 @@ body {
 
 #txt-area {
     background-color: bisque;
+    display: none;
 }
+
+#score-area {
+    background-color: bisque;
+    display: none;
+}
+
 
 .answer {
     margin: 50px 0;
